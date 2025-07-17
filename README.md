@@ -49,13 +49,11 @@ python app.py
 ## 🖼️ Screenshots
 
 ### Welcome Page
-![Welcome Page]("C:\Users\HP\Pictures\Screenshots\Screenshot (181).png")
 
 ### Recommendations Page
-![Recommendations](C:\users\hp\Pictures\Screenshots\Screenshot (182).png)
 
 ### Interactive Map 
-![Interactive Map](C:\users\hp\Pictures\Screenshots\Screenshot (184).png)
+
 
 
 
